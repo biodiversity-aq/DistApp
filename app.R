@@ -16,7 +16,7 @@ config <- list(
 
 # --- UI Definition ---
 ui <- fluidPage(
-  titlePanel("Antarctic Data Visualization"),
+  titlePanel("DistApp - Circum-Antarctic Modelled Data Visualization"),
   
   sidebarLayout(
     sidebarPanel(
