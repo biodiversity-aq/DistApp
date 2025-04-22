@@ -1,6 +1,6 @@
 # 🗺️ DistApp - Interactive visualization of DistAnt data
 
-This repository contains the source code for a Shiny application designed to visualize various geospatial data layers from the Southern Ocean and Antarctic region (ecological model outputs: species distribution and similar models), originating from the DistAnt project (SCAR EG-ABI, Expert Group on Biodiversity Informatics) in conjunction with ADVANCE (Royal Belgian Institute of Natural Sciences) and the Integrated Digital East Antarctica program at the Australian Antarctic Division.
+This repository contains the source code for a Shiny application designed to visualize various ecological model outputs (species distribution and similar models) from the Southern Ocean and Antarctic region, originating from the DistAnt project created by the SCAR EG-ABI (Expert Group on Biodiversity Informatics) in conjunction with ADVANCE (Royal Belgian Institute of Natural Sciences) and the Integrated Digital East Antarctica program at the Australian Antarctic Division.
 ## 🔎 Overview
 
 The Shiny application provides an interactive interface to explore maps of benthic bioregions, habitat importance, sea ice productivity, and habitat for certain species, based on scientific publications. The data is pre-processed to ensure optimal performance within the application.
