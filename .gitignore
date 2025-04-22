@@ -3,5 +3,7 @@
 .RData
 .Ruserdata
 .Rprofile
-.DistAppRproj
+.DistApp.Rproj
 .renv.lock
+.processed_data
+.renv
