@@ -11,6 +11,7 @@ The Shiny application provides an interactive interface to explore maps of habit
 DistApp/
 ├── preprocess_data.R       # R script to download (from SourceCooperative) and pre-process data for Shiny
 ├── app.R                   # Source code for the Shiny application
+├── renv/                   # Directory for the renv environment (managing R package dependencies)
 └── README.md               # This file
 ```
 
