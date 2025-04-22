@@ -1,9 +1,10 @@
 # 🗺️ DistApp - Interactive visualization of DistAnt data
 
-This repository contains the source code for a Shiny application designed to visualize various ecological model outputs (species distribution and similar models) from the Southern Ocean and Antarctic region, originating from the DistAnt project created by the SCAR EG-ABI (Expert Group on Biodiversity Informatics) in conjunction with ADVANCE (Royal Belgian Institute of Natural Sciences) and the Integrated Digital East Antarctica program at the Australian Antarctic Division.
+This repository holds the source code for a Shiny application that visualizes ecological model outputs (such as species distribution models) for the Southern Ocean and Antarctic region. The application is a product of the DistAnt project, a collaborative effort involving the SCAR EG-ABI (Expert Group on Biodiversity Informatics), ADVANCE (Royal Belgian Institute of Natural Sciences), and the Integrated Digital East Antarctica program at the Australian Antarctic Division.
+
 ## 🔎 Overview
 
-The Shiny application provides an interactive interface to explore maps of benthic bioregions, habitat importance, sea ice productivity, and habitat for certain species, based on scientific publications. The data is pre-processed to ensure optimal performance within the application.
+The Shiny application provides an interactive interface to explore maps of habitat suitability/importance, benthic bioregions, sea ice productivity, primary productivity and more, based on scientific publications.
 
 ## 🗂️ Repository Structure
 ```
@@ -78,7 +79,7 @@ Select a layer from the dropdown menu to display the corresponding map in the ma
 
 ## Notes
 
-* Data pre-processing is a crucial step to ensure the performance of the Shiny application. Run `preprocess_data.R` whenever the source data is updated on the GitHub repository.
+* Data pre-processing is a crucial step to ensure the performance of the Shiny application. Run `preprocess_data.R` whenever the source data is updated on the SourceCooperative repository.
 * The application is designed to display static visualizations based on the pre-processed data. Additional information (metadata) about each layer and more advanced interactive features may be added to the user interface in future updates.
 
 ## Contributions
@@ -87,4 +88,4 @@ Contributions to the project are welcome. If you would like to improve the appli
 
 ## License
 
-This project is open source under the [MIT License].
+This project is open source under the [MIT License](https://github.com/biodiversity-aq/DistApp?tab=MIT-1-ov-file).
